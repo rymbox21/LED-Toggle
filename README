@@ -1,4 +1,4 @@
-This project uses Raspberry Pi3 and Arduino Uno.
+This project used Raspberry Pi3 and Arduino Uno.
 Connected using I2C interface.
 
 Pi asks the user to choose from numbers 1-3.
