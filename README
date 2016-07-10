@@ -5,3 +5,7 @@ Pi asks the user to choose from numbers 1-3.
 Selected number will be sent to Arduino.
 Arduino receives this.
 And turn on the assigned LED when off or vice versa.
+Also displays the selcted number on LCD.
+
+Code originally seen here:
+http://stackoverflow.com/questions/24807785/raspberrypi-to-arduino-send-and-receive-string
