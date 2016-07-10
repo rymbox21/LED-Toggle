@@ -1,4 +1,5 @@
 # Toggle-LED
+Toggles Arduino LED using Raspberry Pi3 
 
 This project used Raspberry Pi3 and Arduino Uno.
 Demonstrate I2C connection of between two devices.
