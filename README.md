@@ -1,4 +1,4 @@
-# LED-Toggle
+# LedToggle
 Toggles Arduino LED using Raspberry Pi3 
 
 This project used Raspberry Pi3 and Arduino Uno.
